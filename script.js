@@ -24,8 +24,6 @@ function handleNoClick() {
     messageIndex = (messageIndex + 1) % messages.length;
     const currentSize = parseFloat(window.getComputedStyle(yesButton).fontSize);
     yesButton.style.fontSize = `${currentSize * 1.5}px`;
-    if (messageIndex = 14) {
-    window.location.href = "yes_page.html";
     }
 
 function handleYesClick() {
