@@ -8,7 +8,7 @@ const messages = [
     "mam opla corse pyknij tak",
     "zastanów sie jeszcze 2 razy",
     "Dobra ok przestaje juz",
-    "Myślałem ze w tym momencie juz dawno klikniesz TAK"
+    "Myślałem ze w tym momencie juz dawno klikniesz TAK",
     "żart przeciez ten przycisk nie działa i tak musisz kliknąć TAK"
 ];
 
